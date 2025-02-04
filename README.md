@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->

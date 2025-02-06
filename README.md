@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Array
+|  |
+| ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |
 <!---LeetCode Topics End-->

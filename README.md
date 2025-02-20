@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0031-next-permutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |

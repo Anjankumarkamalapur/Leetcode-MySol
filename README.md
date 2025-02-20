@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0005-longest-palindromic-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->

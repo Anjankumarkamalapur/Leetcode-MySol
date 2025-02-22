@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy

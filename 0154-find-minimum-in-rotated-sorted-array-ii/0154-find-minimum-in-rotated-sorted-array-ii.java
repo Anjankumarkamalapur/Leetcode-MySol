@@ -8,6 +8,7 @@ class Solution {
             int mid=l + (h - l) / 2;
             if(nums[l]==nums[mid] && nums[mid]==nums[h])
             {
+                min=Math.min(min,nums[mid]);
                 l++;
                 h--;
             }

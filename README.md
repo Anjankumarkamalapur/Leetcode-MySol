@@ -114,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0507-perfect-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

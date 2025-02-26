@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0152-maximum-product-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
 | ------- |

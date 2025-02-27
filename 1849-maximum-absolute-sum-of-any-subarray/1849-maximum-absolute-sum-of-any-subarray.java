@@ -10,7 +10,7 @@ class Solution {
             {
                 maxsum=Math.max(maxsum,sum);
             }
-            if(sum<minsum)
+            else
             {
                 minsum=Math.min(minsum,sum);
             }

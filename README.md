@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0503-next-greater-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

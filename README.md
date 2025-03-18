@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |

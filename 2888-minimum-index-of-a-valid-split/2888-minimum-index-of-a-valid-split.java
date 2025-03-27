@@ -25,8 +25,9 @@ class Solution {
             int leftsize=i+1;
             int rightsize=nums.size()-leftsize;
             int rightcnt=maxcnt-cnt;
-            if(cnt*2>leftsize && rightcnt*2>rightsize) return i;
-        }
+            if(cnt > (i+1)/2 && rightcnt > (nums.size()-i-1)/2) {
+                return i;
+            }        }
         return -1;
     }
 }

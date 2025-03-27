@@ -27,7 +27,8 @@ class Solution {
             int rightcnt=maxcnt-cnt;
             if(cnt > (i+1)/2 && rightcnt > (nums.size()-i-1)/2) {
                 return i;
-            }        }
+            }        
+        }
         return -1;
     }
 }

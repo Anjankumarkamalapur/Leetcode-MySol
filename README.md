@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0595-big-countries) |
 | [1827-invalid-tweets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

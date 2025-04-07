@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -286,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0838-design-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

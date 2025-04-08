@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0838-design-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->

@@ -20,11 +20,11 @@ public class Solution {
             if(slow==fast) break;
         }
         if(fast==null || fast.next==null) return null;
-        while(head!=slow)
+        slow=head; //assing slow pointer to head and move both the pointers simultaneosly they will surely meet at one point that is the starting of the loop.
+        while(slow!=fast)
         {
             slow=slow.next;
             fast=fast.next;
-            head=head.next;
         }
         return slow;
     }

@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0503-next-greater-element-ii) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -320,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

@@ -4,7 +4,7 @@ class Solution {
         int tempans=0;
         for(int i:arr)
         {
-            tempans += (i+mid-1)/mid;
+            tempans += (int) Math.ceil((double) i / mid);
         }
         return tempans;
     }

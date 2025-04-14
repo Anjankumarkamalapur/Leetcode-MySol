@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -363,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

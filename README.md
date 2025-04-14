@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
+| [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
+| [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |

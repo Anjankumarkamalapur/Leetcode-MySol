@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1656-count-good-triplets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1656-count-good-triplets) |
 | [3210-count-beautiful-substrings-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3210-count-beautiful-substrings-i) |
 ## Database
 |  |

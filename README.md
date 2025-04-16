@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2428-equal-row-and-column-pairs) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Trie
 |  |
 | ------- |

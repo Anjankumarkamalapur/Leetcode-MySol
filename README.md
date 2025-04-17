@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2428-equal-row-and-column-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |

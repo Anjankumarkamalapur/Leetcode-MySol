@@ -1,27 +1,22 @@
 class Solution {
     public List<String> validStrings(int n) {
-        List<String> ans=new ArrayList<>();
-        ans.add("0");
-        ans.add("1");
-        if(n==1) return ans;
-        for(int i=2;i<=n;i++)
-        {
-            List<String> ls=new ArrayList<>();
-            for(int j=0;j<ans.size();j++)
-            {
-                String temp=ans.get(j);
-                if(temp.charAt(temp.length()-1)=='1')
-                {
-                    ls.add(temp+"1");
-                    ls.add(temp+"0");
-                }
-                else
-                {
-                    ls.add(temp+"1");
-                }
-            }
-            ans=ls;
-        }
+        List<String> ans = new ArrayList<>();
+        generateStrings(n, "", ans);
         return ans;
+    }
+
+    private void generateStrings(int n, String curr, List<String> ans) {
+        if (curr.length() == n) {
+            ans.add(curr);
+            return;
+        }
+
+        // Add "1" in all cases
+        generateStrings(n, curr + "1", ans);
+
+        // Add "0" only if the last char is not "0"
+        if (curr.length() == 0 || curr.charAt(curr.length() - 1) != '0') {
+            generateStrings(n, curr + "0", ans);
+        }
     }
 }

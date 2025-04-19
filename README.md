@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2047-find-a-peak-element-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |

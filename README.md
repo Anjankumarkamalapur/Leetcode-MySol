@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0735-asteroid-collision) |
 | [0886-score-of-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0886-score-of-parentheses) |
+| [0937-online-stock-span](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -374,11 +375,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0937-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

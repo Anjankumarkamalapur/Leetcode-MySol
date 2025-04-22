@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0142-linked-list-cycle-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0031-next-permutation) |

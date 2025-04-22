@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0735-asteroid-collision) |
 | [0886-score-of-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |

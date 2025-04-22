@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |

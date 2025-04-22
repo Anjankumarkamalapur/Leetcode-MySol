@@ -5,8 +5,17 @@ class Solution {
         for(char c:s.toCharArray())
         {
             if(c=='(') st.push('(');
-            else if(st.size()>0) st.pop();
-            else cou++;
+            else if(c==')')
+            {
+                if(!st.isEmpty())
+                {
+                    st.pop();
+                }
+                else
+                {
+                    cou++;
+                }
+            }
             
         }
         cou=cou+st.size();

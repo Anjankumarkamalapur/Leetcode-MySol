@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0735-asteroid-collision) |
+| [0777-toeplitz-matrix](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0907-koko-eating-bananas) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0073-set-matrix-zeroes) |
+| [0777-toeplitz-matrix](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2047-find-a-peak-element-ii) |

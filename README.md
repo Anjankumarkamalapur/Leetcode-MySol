@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2428-equal-row-and-column-pairs) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2047-find-a-peak-element-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2428-equal-row-and-column-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Number Theory
 |  |

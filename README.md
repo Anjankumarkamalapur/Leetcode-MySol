@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0152-maximum-product-subarray) |
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0203-remove-linked-list-elements) |

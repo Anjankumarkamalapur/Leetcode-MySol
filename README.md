@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0540-single-element-in-a-sorted-array) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -516,11 +521,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
 |  |
@@ -538,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

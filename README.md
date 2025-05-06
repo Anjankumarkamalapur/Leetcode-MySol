@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0098-validate-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0783-search-in-a-binary-search-tree) |

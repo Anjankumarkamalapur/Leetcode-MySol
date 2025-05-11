@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1222-remove-covered-intervals) |
+| [1293-three-consecutive-odds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |

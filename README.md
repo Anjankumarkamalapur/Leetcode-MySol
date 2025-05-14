@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |

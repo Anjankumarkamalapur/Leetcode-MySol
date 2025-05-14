@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0983-validate-stack-sequences) |
+| [1025-minimum-cost-for-tickets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1222-remove-covered-intervals) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0647-palindromic-substrings) |
+| [1025-minimum-cost-for-tickets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1025-minimum-cost-for-tickets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |

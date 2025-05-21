@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3639-zero-array-transformation-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3639-zero-array-transformation-i) |
 ## Stack
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3210-count-beautiful-substrings-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3210-count-beautiful-substrings-i) |
+| [3639-zero-array-transformation-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
 |  |
 | ------- |

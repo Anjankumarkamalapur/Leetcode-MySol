@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |

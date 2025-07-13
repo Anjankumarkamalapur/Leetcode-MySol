@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search Tree
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Number Theory

@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
 ## Dynamic Programming
 |  |
@@ -619,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0023-merge-k-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

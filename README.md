@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1222-remove-covered-intervals) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2362-minimum-rounds-to-complete-all-tasks) |

@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0983-validate-stack-sequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1222-remove-covered-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1222-remove-covered-intervals) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1519-minimum-subsequence-in-non-increasing-order) |

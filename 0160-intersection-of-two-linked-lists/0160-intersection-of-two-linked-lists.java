@@ -19,7 +19,7 @@ public class Solution {
         }
         while(headB!=null)
         {
-            if(hm.containsKey(headB)&&hm.get(headB)>0) return headB;
+            if(hm.containsKey(headB)) return headB;
             else headB=headB.next;
         }
         return null;

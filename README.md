@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2529-range-product-queries-of-powers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2529-range-product-queries-of-powers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3210-count-beautiful-substrings-i) |
 | [3639-zero-array-transformation-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Trie

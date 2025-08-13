@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |

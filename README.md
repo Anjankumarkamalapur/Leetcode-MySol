@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2470-removing-stars-from-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3210-count-beautiful-substrings-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |

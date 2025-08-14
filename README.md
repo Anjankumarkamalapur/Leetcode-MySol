@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1619-path-crossing) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0647-palindromic-substrings) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1025-minimum-cost-for-tickets) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |

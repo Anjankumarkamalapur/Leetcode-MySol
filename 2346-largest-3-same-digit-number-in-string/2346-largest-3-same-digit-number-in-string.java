@@ -11,8 +11,7 @@ class Solution {
         if(good !=Integer.MIN_VALUE){
             char ch=(char)good;
             return new String(new char[]{ch, ch, ch});
-        }
-            
+        }   
         return "";
     }
 }

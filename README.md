@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0090-subsets-ii) |
+| [0342-power-of-four](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0342-power-of-four) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |

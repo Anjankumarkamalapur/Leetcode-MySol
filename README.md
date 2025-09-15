@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1460-number-of-substrings-containing-all-three-characters) |

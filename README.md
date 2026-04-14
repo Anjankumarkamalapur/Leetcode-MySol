@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |

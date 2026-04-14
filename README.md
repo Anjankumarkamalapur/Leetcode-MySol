@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -643,10 +646,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Memoization
 |  |

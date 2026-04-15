@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0900-reordered-power-of-2) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0861-flipping-an-image](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0861-flipping-an-image) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0647-palindromic-substrings) |
 | [0800-letter-case-permutation](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0812-rotate-string) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anjankumarkamalapur/Leetcode-MySol/tree/master/1046-max-consecutive-ones-iii) |
